@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [[ -z "$1" ]]; then
-    echo "Usage: ing2actual.sh <inputfile.csv>"
+    echo "Usage: ing-to-actual.sh <inputfile.csv>"
     exit 1
 fi
 
